@@ -1,0 +1,11 @@
+{
+  "hh_username" : "0xn4b1l",
+  "category" : "crypto",
+  "name" : "Partial Recall",
+  "description" : "partial key exposure in RSA CRT",
+  "difficulty" : 3,
+  "answer_type" :   "flags",
+  "lab" :   false,
+  "http" : false,
+  "port"  : 0
+}
